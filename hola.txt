@@ -1,3 +1,5 @@
 hola mundo!!!
 
-segunda linea
+Aprendiendo Git
+
+primero add, luego commit y push
